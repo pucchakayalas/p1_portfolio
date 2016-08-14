@@ -3,14 +3,66 @@ body{
 }
 
 *{
-    box-sizing: border-box;
+    box-sizing:border-box;
 }
 .em-text{
 color:#fff !important;
 }
 
 .jumbotron{
-     background: url(../img/bg1400.jpg) no-repeat top center!important;
-     max-width: 100%;
-background-size: cover;
+     background: url(../img/bg1400.jpg) no-repeat!important;
+     width: 100%;
+     margin-bottom: 0 !important;
+     overflow: none;
+
+
+
  }
+
+#title-bar{
+text-align: center;
+background-color: #101010;
+margin-top: 0;
+margin-bottom: 4em;
+color: #fff;
+
+
+}
+
+#title-bar h3{
+    margin: 20px !important;
+}
+
+#middle{
+    margin-bottom: 25px;
+}
+
+.col-md-4{
+    margin-bottom: 20px;
+}
+
+.img{
+    width:100%;
+    padding:3px;
+    border: 1px solid #ccc;
+}
+
+
+.glyphicons li{
+
+    display: inline-block !important;
+    list-style: none;
+    font-size: 40px;
+    margin: 0 10px 0 10px;
+}
+
+
+#contacts{
+    background-color: #101010;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+
+ul .glyphicons{
+    margin:10px 0 10px 0;
+}
