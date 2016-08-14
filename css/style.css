@@ -1,0 +1,16 @@
+body{
+    padding-top: 50px !important;
+}
+
+*{
+    box-sizing: border-box;
+}
+.em-text{
+color:#fff !important;
+}
+
+.jumbotron{
+     background: url(../img/bg-1500.jpg) no-repeat !important;
+     max-width: 100%;
+
+ }
