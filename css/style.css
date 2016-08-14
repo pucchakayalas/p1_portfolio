@@ -35,13 +35,14 @@ color: #fff;
 
 #middle{
     margin-bottom: 25px;
+    overflow: none;
 }
 
 .col-md-4{
     margin-bottom: 20px;
 }
 
-.img{
+.pic{
     width:100%;
     padding:3px;
     border: 1px solid #ccc;
@@ -52,8 +53,8 @@ color: #fff;
 
     display: inline-block !important;
     list-style: none;
-    font-size: 40px;
-    margin: 0 10px 0 10px;
+    font-size: 45px;
+    margin: 0 15px 0 15px;
 }
 
 
