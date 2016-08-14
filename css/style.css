@@ -10,7 +10,7 @@ color:#fff !important;
 }
 
 .jumbotron{
-     background: url(../img/bg-1500.jpg) no-repeat !important;
+     background: url(../img/bg1400.jpg) no-repeat top center!important;
      max-width: 100%;
-
+background-size: cover;
  }
