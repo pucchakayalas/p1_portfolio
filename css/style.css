@@ -2,9 +2,12 @@ body{
     padding-top: 50px !important;
 }
 
+
 *{
     box-sizing:border-box;
 }
+
+
 .em-text{
 color:#fff !important;
 }
@@ -34,10 +37,11 @@ color: #fff;
 }
 
 #middle{
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     overflow: none;
 }
 
+.
 .col-md-4{
     margin-bottom: 20px;
 }
