@@ -12,15 +12,35 @@ body{
 color:#fff !important;
 }
 
-.jumbotron-fluid{
-background-color: ##101010;
+.title-text{
+    margin: 0;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+
+#welcome{
+
+background-image:url(../img/bg2000.jpg);
+background-repeat: no-repeat;
+width: 100vw;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
  }
 
  .jumbotron-fluid .image{
     margin: 0 auto;
 
-
  }
+
+#article .bio{
+    background-color: #101010;
+    color: #fff;
+    text-align: center;
+
+}
+
 
 #title-bar{
 text-align: center;
