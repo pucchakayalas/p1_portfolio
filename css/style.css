@@ -41,9 +41,8 @@ color: #fff;
     overflow: none;
 }
 
-.
-.col-md-4{
-    margin-bottom: 20px;
+#middle .row .btn{
+    margin-bottom:20px !important;
 }
 
 .pic{
