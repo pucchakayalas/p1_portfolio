@@ -12,12 +12,12 @@ body{
 color:#fff !important;
 }
 
-.jumbotron{
-     background: url(../img/bg1400.jpg) no-repeat!important;
-     width: 100%;
-     margin-bottom: 0 !important;
-     overflow: none;
+.jumbotron-fluid{
+background-color: ##101010;
+ }
 
+ .jumbotron-fluid .image{
+    margin: 0 auto;
 
 
  }
