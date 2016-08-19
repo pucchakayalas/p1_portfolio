@@ -2,9 +2,7 @@ body{
     padding-top: 50px !important;
 }
 
-*{
-    box-sizing:border-box;
-}
+
 
 
 .title-text{
@@ -19,7 +17,7 @@ body{
 
 background-image:url(../img/bg2000.jpg);
 background-repeat: no-repeat;
-width: 100vw;
+
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
@@ -54,7 +52,7 @@ color: #fff;
 
 #middle{
     margin-bottom: 40px;
-    overflow: none;
+
 }
 
 #middle .row .btn{
