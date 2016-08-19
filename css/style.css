@@ -2,20 +2,16 @@ body{
     padding-top: 50px !important;
 }
 
-
 *{
     box-sizing:border-box;
 }
 
 
-.em-text{
-color:#fff !important;
-}
-
 .title-text{
     margin: 0;
     font-size: 20px;
     vertical-align: middle;
+    color:#fff !important;
 }
 
 
